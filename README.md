@@ -7,6 +7,9 @@ In order to compute all the different analyses, I used the same methods and form
 
 
 ## How to Use
+Run this on your terminal:
+git clone https://github.com/matteomedini/malawi-village-analysis.git
+cd malawi-village-analysis
 
 1. Open the notebook in Jupyter.
 2. Make sure the data is in the `data/` folder.
