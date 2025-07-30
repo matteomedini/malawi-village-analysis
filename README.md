@@ -7,9 +7,12 @@ In order to compute all the different analyses, I used the same methods and form
 
 
 ## How to Use
-Run this on your terminal:
+Run these on your terminal:
 git clone https://github.com/matteomedini/malawi-village-analysis.git
 cd malawi-village-analysis
+
+pip install -r requirements.txt
+
 
 1. Open the notebook in Jupyter.
 2. Make sure the data is in the `data/` folder.
@@ -17,8 +20,9 @@ cd malawi-village-analysis
 
 ## What's Inside
 
-- `malawipaper.ipynb`: The code.
-- `data/`: The datasets 
+- "malawipaper.ipynb": The code.
+- "data/": The datasets
+- "requirements.txt": libraries to install
 
 ## You Need to Install
 
@@ -26,9 +30,8 @@ cd malawi-village-analysis
 - numpy
 - matplotlib
 - networkx
-- jupyter
-- collections
 - python-louvain
 - scipy
 - scikit-learn
 - seaborn
+- jupyter
