@@ -17,7 +17,7 @@ cd malawi-village-analysis
 
 ## What's Inside
 
-- `notebook.ipynb`: The code.
+- `malawipaper.ipynb`: The code.
 - `data/`: The datasets 
 
 ## You Need to Install
