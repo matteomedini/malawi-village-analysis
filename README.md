@@ -1,4 +1,4 @@
-# Elaboration on the analysis in the paper "Using wearable proximity sensors to characterize social contact patterns in a village in rural Malawi"
+# Elaboration on the analyses in the paper "Using wearable proximity sensors to characterize social contact patterns in a village in rural Malawi"
 
 This notebook analyzes contact data within and between households in a village in rural Malawi.
 The project was created during the internship at ISI Foundation and it aims to explore new approaches for analyzing contact patterns in village settings.
